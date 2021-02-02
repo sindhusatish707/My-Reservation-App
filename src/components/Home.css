@@ -1,0 +1,12 @@
+.Home{
+    border-style: ridge;
+    padding: 1%;
+}
+
+.Head{
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    box-align: 'center';
+    padding: 17%;
+}
